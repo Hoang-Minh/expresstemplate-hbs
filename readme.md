@@ -1,7 +1,7 @@
 # Express Template (static)
 
 A boilerplate project that sets up file structure and quick server
-set-up for an express app using handlebars assets.
+set-up for an express app using handlebars.
 
 ##### Quick Start
 
