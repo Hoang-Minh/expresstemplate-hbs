@@ -1,4 +1,4 @@
-# Express Template (static)
+# Express Template (handlebars)
 
 A boilerplate project that sets up file structure and quick server
 set-up for an express app using handlebars.
